@@ -1,5 +1,5 @@
 {
-  "name": "gonzalo123/dumper",
+  "name": "gonzalo123/rabbitmq-logger-service-provider",
   "description": "silex logger via rabbitmq",
   "license": "MIT",
   "keywords": [
